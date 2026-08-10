@@ -1,0 +1,14 @@
+{
+  "keys": {
+    "TEST-123": {
+      "status": "active",
+      "expiry": "2026-12-31",
+      "hwid": ""
+    },
+    "TEST-456": {
+      "status": "active",
+      "expiry": "2026-09-30",
+      "hwid": ""
+    }
+  }
+}
