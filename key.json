@@ -5,10 +5,10 @@
       "expiry": "2026-12-31",
       "hwid": "adfd46d1ffaedd86deb084c5251ea1b3e998e361409a6b96e5e62715e09f6484"
     },
-    "TEST-456": {
+    "SUBHAN_VIP": {
       "status": "active",
       "expiry": "2026-09-30",
-      "hwid": ""
+      "hwid": "d1537c86c4ea837f53e62ff786214dc4485e985236b13766aba197216eaadbe1"
     }
   }
 }
